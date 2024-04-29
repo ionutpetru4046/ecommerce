@@ -1,1 +1,2 @@
-# ecommerce website 2024
+# ecommerce website
+skills used: HTML CSS JAvaScript
